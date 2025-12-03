@@ -31,15 +31,6 @@ A) Chargement des couches et création des cartes de localisation
 B) Webscraping  Wikipédia
 
 
-
-&nbsp;	- Scraper l'url des musées de Paris dans la section dédié sur la page 	https://fr.wikipedia.org/wiki/Mus%C3%A9e\_de\_France et enregistrement csv
-
-&nbsp;	- Jointure entre csv et couche des musées
-
-&nbsp;	- Scraping information sur les musées via le champ url issu de la jointure et résumé
-
-
-
 C) Isochrone à 5 et 10 min de chaque musée et symbologie catégorisée
 
 D) Symbologie basée sur règle des gares
