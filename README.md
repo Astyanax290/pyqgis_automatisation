@@ -96,10 +96,3 @@ E) Mise en page
 
 Projet réalisé par **Astyanax GNANSOUNOU**,  
 Étudiant en Master Géomatique.
-
----
-
-## Licence
-
-Ce projet peut être réutilisé à des fins pédagogiques ou personnelles.  
-Merci de mentionner l’auteur en cas de reprise.
