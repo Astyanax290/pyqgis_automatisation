@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" id="museum-location">
+  <ellipse cx="32" cy="53.5" fill="#fccd1d" rx="29" ry="7.5"></ellipse>
+  <ellipse cx="32" cy="53.5" fill="#f9a215" rx="20" ry="3.5"></ellipse>
+  <path fill="#dd051d" d="M54 25a22 22 0 1 0-31.14 20l7.82 7.84a2 2 0 0 0 2.64 0L41.14 45A22 22 0 0 0 54 25Z"></path>
+  <circle cx="32" cy="25" r="18" fill="#fff"></circle>
+  <path fill="#e6e7e8" d="M21 29.5h22v4H21zM43 22.5H21V18l11-4.5L43 18v4.5z"></path>
+  <path fill="#d1d3d4" d="M24 22.5h16v7H24z"></path>
+  <circle cx="32" cy="18.5" r="1" fill="#e6e7e8"></circle>
+  <path fill="#bcbec0" d="M33.67 22.5h2v7h-2zM28.33 22.5h2v7h-2z"></path>
+</svg>
